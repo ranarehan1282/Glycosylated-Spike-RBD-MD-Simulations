@@ -1,0 +1,1 @@
+Molecular dynamics (MD) analysis (100 ns) of SARS-CoV-2 RBD glycosylation. Five system pairs compare apo/glycosylated RBD, its ACE2 complex, and three antibody Fv complexes. Analysis includes stability (RMSD/Rg), centrality, H-bonds, hydrophobic contacts, and PCA. Explores how glycosylation modulates spike protein dynamics and interactions.
